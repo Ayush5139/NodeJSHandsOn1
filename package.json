@@ -1,0 +1,17 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "Hands On 1 - based on the http module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
